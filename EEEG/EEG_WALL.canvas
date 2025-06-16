@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"e214022578f5a17a","x":-420,"y":-320,"width":373,"height":400,"color":"6","type":"file","file":"EEEG/Pasted image 20250616112140.png"}
+		{"id":"e214022578f5a17a","type":"file","file":"EEEG/Pasted image 20250616112140.png","x":-620,"y":-340,"width":373,"height":400,"color":"6"},
+		{"id":"3e817e1cb6f9bf87","x":-80,"y":-361,"width":800,"height":442,"color":"4","type":"file","file":"Pasted image 20250616114003.png"},
+		{"id":"72c3a1db51eaf02d","x":-72,"y":200,"width":785,"height":420,"color":"4","type":"text","text":"### **Recommended 6 electrode positions**\n\nHere’s a solid setup (based on 10-20 EEG system and common OpenBCI placement):\n\n|Electrode|Location|Purpose|\n|---|---|---|\n|**F3**|Left frontal|Attention, working memory|\n|**F4**|Right frontal|Attention, focus|\n|**Cz**|Center top (vertex)|Cognitive integration|\n|**Pz**|Center parietal|Attention + alpha for relaxation|\n|**O1**|Left occipital|Alpha (relaxation, eyes closed)|\n|**O2**|Right occipital|Alpha (relaxation, eyes closed)|"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"f6dcda0620d88599","fromNode":"e214022578f5a17a","fromSide":"right","toNode":"3e817e1cb6f9bf87","toSide":"left"},
+		{"id":"71f7d9b5796751d7","fromNode":"3e817e1cb6f9bf87","fromSide":"bottom","toNode":"72c3a1db51eaf02d","toSide":"top"}
+	]
 }
