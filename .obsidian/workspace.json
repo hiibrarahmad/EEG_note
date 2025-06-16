@@ -15,9 +15,9 @@
               "state": {
                 "file": "EEEG/EEG_WALL.canvas",
                 "viewState": {
-                  "x": 452.767964700176,
-                  "y": 404.2386412086573,
-                  "zoom": -1.1662357278664908
+                  "x": 361.64207889115175,
+                  "y": 417.1061768984198,
+                  "zoom": -1.4634494549433408
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -179,7 +179,9 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "201b7a6bffc6ea4e",
