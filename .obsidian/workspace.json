@@ -11,17 +11,10 @@
             "id": "201b7a6bffc6ea4e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "EEEG/EEG_WALL.canvas",
-                "viewState": {
-                  "x": 11.953179898308349,
-                  "y": 8.43903809268022,
-                  "zoom": -0.6868631618817672
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "EEG_WALL"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -97,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20250616112140.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20250616112140"
+              "title": "Backlinks"
             }
           },
           {
@@ -116,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20250616112140.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasted image 20250616112140"
+              "title": "Outgoing links"
             }
           },
           {
@@ -145,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20250616112140.png",
+                "file": "EEG/EEG_WALL.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20250616112140"
+              "title": "Outline of EEG_WALL"
             }
           },
           {
@@ -182,14 +173,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "201b7a6bffc6ea4e",
+  "active": "5ba7dfa9345b5351",
   "lastOpenFiles": [
+    "EEEG/EEG_WALL.canvas",
+    "EEEG",
     "Pasted image 20250616112140.png",
     "Pasted image 20250616111908.jpg",
-    "EEEG/EEG_WALL.canvas",
+    "EEG/EEG_WALL.canvas",
     "Welcome.md",
     "EEG PREPROCESSING.md",
     "Pasted image 20250616103642.png",
-    "EEEG"
+    "EEG"
   ]
 }
