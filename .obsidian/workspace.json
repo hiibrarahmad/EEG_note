@@ -11,20 +11,30 @@
             "id": "201b7a6bffc6ea4e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "EEEG/EEG_WALL.canvas",
-                "viewState": {
-                  "x": 361.64207889115175,
-                  "y": 417.1061768984198,
-                  "zoom": -1.4634494549433408
-                }
+                "file": "EEEG/EEG PREPROCESSING.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "EEG_WALL"
+              "icon": "lucide-file",
+              "title": "EEG PREPROCESSING"
+            }
+          },
+          {
+            "id": "1f238a893d5bae01",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-06-16 11.53.23.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-16 11.53.23.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EEEG/EEG_WALL.canvas",
+                "file": "Excalidraw/Drawing 2025-06-16 11.53.23.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for EEG_WALL"
+              "title": "Backlinks for Drawing 2025-06-16 11.53.23.excalidraw"
             }
           },
           {
@@ -116,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EEEG/EEG_WALL.canvas",
+                "file": "Excalidraw/Drawing 2025-06-16 11.53.23.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from EEG_WALL"
+              "title": "Outgoing links from Drawing 2025-06-16 11.53.23.excalidraw"
             }
           },
           {
@@ -145,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EEEG/EEG_WALL.canvas",
+                "file": "Excalidraw/Drawing 2025-06-16 11.53.23.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of EEG_WALL"
+              "title": "Outline of Drawing 2025-06-16 11.53.23.excalidraw"
             }
           },
           {
@@ -163,13 +173,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "6255f4d873d95a72",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 470.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,16 +204,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "201b7a6bffc6ea4e",
+  "active": "5ba7dfa9345b5351",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-06-16 11.52.12.excalidraw.md",
+    "Excalidraw/Drawing 2025-06-16 11.53.23.excalidraw.md",
+    "EEEG/EEG PREPROCESSING.md",
+    "EEEG/Pasted image 20250616112140.png",
+    "EEEG/EEG_WALL.canvas",
+    "Excalidraw",
     "Pasted image 20250616114003.png",
     "Pasted image 20250616113902.png",
     "EEG/EEG_WALL.canvas",
     "Untitled.canvas",
-    "EEEG/EEG PREPROCESSING.md",
-    "EEEG/EEG_WALL.canvas",
     "EEEG",
-    "EEEG/Pasted image 20250616112140.png",
     "Pasted image 20250616111908.jpg",
     "Welcome.md",
     "Pasted image 20250616103642.png",

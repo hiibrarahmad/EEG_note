@@ -50,6 +50,18 @@
       "width": 785,
       "x": -72,
       "y": 200
+    },
+    {
+      "height": 60,
+      "id": "a708b7383cd89c69",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "text": "",
+      "type": "text",
+      "width": 260,
+      "x": -400,
+      "y": 760
     }
   ]
 }
