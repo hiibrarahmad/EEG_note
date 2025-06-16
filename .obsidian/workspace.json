@@ -15,9 +15,9 @@
               "state": {
                 "file": "EEEG/EEG_WALL.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 11.953179898308349,
+                  "y": 8.43903809268022,
+                  "zoom": -0.6868631618817672
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EEEG/EEG_WALL.canvas",
+                "file": "Pasted image 20250616112140.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for EEG_WALL"
+              "title": "Backlinks for Pasted image 20250616112140"
             }
           },
           {
@@ -116,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EEEG/EEG_WALL.canvas",
+                "file": "Pasted image 20250616112140.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from EEG_WALL"
+              "title": "Outgoing links from Pasted image 20250616112140"
             }
           },
           {
@@ -145,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EEEG/EEG_WALL.canvas",
+                "file": "Pasted image 20250616112140.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of EEG_WALL"
+              "title": "Outline of Pasted image 20250616112140"
             }
           },
           {
@@ -182,10 +182,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6fe1a0e5c47d7c49",
+  "active": "201b7a6bffc6ea4e",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Pasted image 20250616112140.png",
+    "Pasted image 20250616111908.jpg",
     "EEEG/EEG_WALL.canvas",
+    "Welcome.md",
     "EEG PREPROCESSING.md",
     "Pasted image 20250616103642.png",
     "EEEG"
