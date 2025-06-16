@@ -11,30 +11,17 @@
             "id": "201b7a6bffc6ea4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "EEG PREPROCESSING.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -297.4905358357123,
+                  "y": -446.8837452149507,
+                  "zoom": -0.6047158530553278
+                }
               },
-              "icon": "lucide-file",
-              "title": "EEG PREPROCESSING"
-            }
-          }
-        ]
-      },
-      {
-        "id": "81825ad1988e5750",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "577841cc71bfd27d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EEG PREPROCESSING.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for EEG PREPROCESSING"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -129,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EEG PREPROCESSING.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from EEG PREPROCESSING"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -158,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EEG PREPROCESSING.md",
+                "file": "Untitled.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of EEG PREPROCESSING"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -197,8 +184,10 @@
   },
   "active": "201b7a6bffc6ea4e",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Pasted image 20250616103642.png",
     "EEG PREPROCESSING.md",
+    "Untitled.canvas",
+    "Welcome.md",
     "EEEG"
   ]
 }
