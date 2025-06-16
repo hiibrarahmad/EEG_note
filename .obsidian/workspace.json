@@ -11,10 +11,17 @@
             "id": "201b7a6bffc6ea4e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "EEEG/EEG_WALL.canvas",
+                "viewState": {
+                  "x": -243.56249602247868,
+                  "y": -88.6089875154609,
+                  "zoom": -0.0373199630578359
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "EEG_WALL"
             }
           }
         ]
@@ -90,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -108,11 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -136,12 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Untitled.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -172,17 +182,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6fe1a0e5c47d7c49",
+  "active": "5ba7dfa9345b5351",
   "lastOpenFiles": [
-    "EEG/EEG_WALL.canvas",
-    "Untitled.canvas",
+    "EEEG/Pasted image 20250616112140.png",
     "EEEG/EEG PREPROCESSING.md",
+    "Pasted image 20250616112140.png",
+    "Untitled.canvas",
+    "EEG PREPROCESSING.md",
+    "conflict-files-obsidian-git.md",
     "EEEG/EEG_WALL.canvas",
     "EEEG",
-    "EEEG/Pasted image 20250616112140.png",
-    "Pasted image 20250616111908.jpg",
-    "Welcome.md",
     "Pasted image 20250616103642.png",
-    "EEG"
+    "Welcome.md"
   ]
 }
