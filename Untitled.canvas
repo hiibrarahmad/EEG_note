@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"eac5abf1f3072ead","x":-460,"y":-360,"width":400,"height":264,"type":"file","file":"Pasted image 20250616103642.png"},
-		{"id":"6d24c52ab4d1e9b3","x":-600,"y":-960,"width":400,"height":400,"color":"2","type":"file","file":"EEG PREPROCESSING.md"}
+		{"id":"eac5abf1f3072ead","type":"file","file":"Pasted image 20250616103642.png","x":-600,"y":-440,"width":400,"height":264},
+		{"id":"6d24c52ab4d1e9b3","type":"file","file":"EEG PREPROCESSING.md","x":-120,"y":-576,"width":400,"height":400,"color":"2"}
 	],
 	"edges":[]
 }

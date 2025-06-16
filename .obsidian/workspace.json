@@ -11,17 +11,14 @@
             "id": "201b7a6bffc6ea4e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -297.4905358357123,
-                  "y": -446.8837452149507,
-                  "zoom": -0.6047158530553278
-                }
+                "file": "EEG PREPROCESSING.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "EEG PREPROCESSING"
             }
           }
         ]
@@ -184,9 +181,9 @@
   },
   "active": "201b7a6bffc6ea4e",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "Pasted image 20250616103642.png",
     "EEG PREPROCESSING.md",
-    "Untitled.canvas",
     "Welcome.md",
     "EEEG"
   ]
