@@ -136,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EEG/EEG_WALL.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of EEG_WALL"
+              "title": "Outline"
             }
           },
           {
@@ -173,15 +172,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ba7dfa9345b5351",
+  "active": "6fe1a0e5c47d7c49",
   "lastOpenFiles": [
+    "EEG/EEG_WALL.canvas",
     "Untitled.canvas",
-    "EEG PREPROCESSING.md",
+    "EEEG/EEG PREPROCESSING.md",
     "EEEG/EEG_WALL.canvas",
     "EEEG",
-    "Pasted image 20250616112140.png",
+    "EEEG/Pasted image 20250616112140.png",
     "Pasted image 20250616111908.jpg",
-    "EEG/EEG_WALL.canvas",
     "Welcome.md",
     "Pasted image 20250616103642.png",
     "EEG"
