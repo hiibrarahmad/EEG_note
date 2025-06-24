@@ -11,17 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "EEEG/EEG_WALL.canvas",
-                "viewState": {
-                  "x": 50,
-                  "y": 229.5,
-                  "zoom": -1.029665782207899
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "EEG_WALL"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -197,15 +190,17 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5ba7dfa9345b5351",
   "lastOpenFiles": [
-    "EEEG/EEG PREPROCESSING.md",
+    "Untitled.md",
+    "EEEG/EEG_WALL.canvas",
     "EEEG/Pasted image 20250616112140.png",
     "Excalidraw/Drawing 2025-06-16 12.06.38.excalidraw.md",
-    "EEEG/EEG_WALL.canvas",
     "Excalidraw/Drawing 2025-06-16 11.53.23.excalidraw.md",
-    "Pasted image 20250616113902.png",
+    "Excalidraw/Drawing 2025-06-17 17.40.26.excalidraw.md",
     "Pasted image 20250616114003.png",
+    "Pasted image 20250616113902.png",
+    "EEEG/EEG PREPROCESSING.md",
     "OneNote",
     "Excalidraw/Drawing 2025-06-16 11.52.12.excalidraw.md",
     "Excalidraw",
